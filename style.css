@@ -1,0 +1,22 @@
+.card{
+	border: none !important;
+}
+
+.main{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.cards{
+	margin: 10px;
+}
+
+.text{
+	font-weight: bold;
+}
+
+.head{
+	text-align: center;
+	font-weight: bold;
+}
+
